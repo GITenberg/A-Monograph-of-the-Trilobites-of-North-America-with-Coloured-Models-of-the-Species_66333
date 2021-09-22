@@ -1,0 +1,29 @@
+_repo: A-Monograph-of-the-Trilobites-of-North-America-with-Coloured-Models-of-the-Species_66333
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Green, J. D. (Jacob D.)
+    alias: Green, Jacob D.
+    birthdate: 1813
+    gutenberg_agent_id: '5870'
+    url: http://www.gutenberg.org/2009/agents/5870
+description: ''
+gutenberg_issued: '2021-09-18'
+identifiers:
+  gutenberg: '66333'
+language: en
+pgterms:marc904: https://archive.org/details/monographoftrilo00greerich
+pgterms:marc905: 20210828063216green
+pgterms:marc906: '1832'
+pgterms:marc907: US
+production_note: Tom Cosmas produced from materials made available at The Internet
+  Archive and placed in the Public Domain.
+publication_note: United States :Joseph Brano,1832.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A Monograph of the Trilobites of North America: with Coloured Models of the
+  Species'
+url: http://www.gutenberg.org/ebooks/66333
